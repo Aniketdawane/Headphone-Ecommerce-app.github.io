@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcc54e4e.css",
+    "main.js": "/static/js/main.51d42cf5.js",
+    "static/js/787.5d6084fc.chunk.js": "/static/js/787.5d6084fc.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/Speaker.jpg": "/static/media/Speaker.23bef4a9991ca10a4880.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.66440854bd6190c37a88.jpg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/About1.jpg": "/static/media/About1.c10ba36939e1eae21d14.jpg",
+    "static/media/img3.jpg": "/static/media/img3.96b435c1e612786f1c36.jpg",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/bg2.jpg": "/static/media/bg2.a339ecdab6db93b78c51.jpg",
+    "static/media/phone.gif": "/static/media/phone.d110f40eb6a557811eff.gif",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/img1.jpg": "/static/media/img1.6bdef4f31d4188e9d7a8.jpg",
+    "static/media/img2.jpg": "/static/media/img2.4414ede95fb1d98e70fd.jpg",
+    "static/media/wireless.jpg": "/static/media/wireless.ba8d3d1ab1066099ae46.jpg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/spec1.jpg": "/static/media/spec1.0552f4837bbdbb7c3517.jpg",
+    "static/media/spec2.jpg": "/static/media/spec2.1ba31be594cdd3d3ab30.jpg",
+    "static/media/truck.gif": "/static/media/truck.1ffe2aae3da49a195dd6.gif",
+    "static/media/spot1.jpg": "/static/media/spot1.f60b800f882ecded457b.jpg",
+    "static/media/phone2.gif": "/static/media/phone2.c4ed8597d408508eff63.gif",
+    "static/media/newArrivall.jpg": "/static/media/newArrivall.127ee170687672cd979f.jpg",
+    "static/media/spec3.jpg": "/static/media/spec3.055be65fbc36706cab37.jpg",
+    "static/media/spot2.jpg": "/static/media/spot2.01f32aa166ea0f15bea3.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/spot3.jpg": "/static/media/spot3.a90d48cf4f241471dda1.jpg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/index.html",
+    "main.bcc54e4e.css.map": "/static/css/main.bcc54e4e.css.map",
+    "main.51d42cf5.js.map": "/static/js/main.51d42cf5.js.map",
+    "787.5d6084fc.chunk.js.map": "/static/js/787.5d6084fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc54e4e.css",
+    "static/js/main.51d42cf5.js"
+  ]
+}
